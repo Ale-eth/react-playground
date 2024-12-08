@@ -1,10 +1,9 @@
-import './App.css'
+import "./App.css";
 
-import Card from './components/Card'
+import MyComponent from "./components/MyComponent";
 
 function App() {
-
-  return Card();
+  return MyComponent();
 }
 
-export default App
+export default App;
